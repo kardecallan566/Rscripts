@@ -4,15 +4,15 @@
 
 5 + 5
 
-#subtraÁ„o
+#subtra√ß√£o
 
 3 - 2
 
-#multiplicaÁ„p
+#multiplica√ß√£p
 
 3 * 2
 
-#divis„o
+#divis√£o
 
 10 / 2
 
@@ -22,7 +22,7 @@
  
 2 ^ 3
 
-#comparaÁ„o
+#compara√ß√£o
 
 2 == 3
 2 == 2.0
@@ -42,7 +42,7 @@
 2 < 1 | 3 > 4
 2 > 1 | 3 > 4
 
-#negaÁ„o
+#nega√ß√£o
 
 !5 < 6
 !2 < 1
