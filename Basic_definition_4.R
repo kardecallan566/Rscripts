@@ -20,30 +20,30 @@ dados <- anscombe
 str(dados)
 
 
-##Gráficos de pontos
+##GrÃ¡ficos de pontos
 #plot(dados$x1, dados$y1)
 
-##Gráficos de séries
+##GrÃ¡ficos de sÃ©ries
 #plot(dados$x1)
 
-##Gráficos de barra
+##GrÃ¡ficos de barra
 #plot(as.factor(dados$x1))
 
 ##Boxplot
 #plot(as.factor(dados$x1), dados$y1)
 
-##Painéis gráficos
+##PainÃ©is grÃ¡ficos
 #plot(dados)
 
-##ls(par()) # Parâmetros gráficos do dispositivo ativo
+##ls(par()) # ParÃ¢metros grÃ¡ficos do dispositivo ativo
 
 
-##op <- par(las = 1) # Alterar parâmetro las para todos os gráficos
-##par(op) # Restaurar parâmetros originais
+##op <- par(las = 1) # Alterar parÃ¢metro las para todos os grÃ¡ficos
+##par(op) # Restaurar parÃ¢metros originais
 
 ##Alterando eixos
 #plot(dados$x1, dados$y1, 
-#xlab = "Variável preditora", ylab = "Variável resposta", 
+#xlab = "VariÃ¡vel preditora", ylab = "VariÃ¡vel resposta", 
 #main = "Anscombe")
 
 
