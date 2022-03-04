@@ -1,4 +1,4 @@
-##criação de funções no R
+##criaÃ§Ã£o de funÃ§Ãµes no R
 
 a <- function(a,b){
   c <- a/b
